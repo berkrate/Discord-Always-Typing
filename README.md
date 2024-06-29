@@ -1,0 +1,2 @@
+# typing
+Discord Always Typing
